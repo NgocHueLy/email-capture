@@ -5,3 +5,9 @@ project include:
 - Javascript
 - email validation
 
+Link to project: https://app.netlify.com/sites/email-capture/overview
+
+Screenshot: 
+![alt text](https://github.com/NgocHueLy/email-capture/blob/main/screencapture_email_modal.JPG)
+
+
